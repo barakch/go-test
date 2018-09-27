@@ -1,4 +1,4 @@
-package main // import "github.com/barakch/gotest"
+package main // import "github.com/barakch/go-test"
 
 import ("log"
 
